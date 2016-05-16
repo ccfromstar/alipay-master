@@ -1,0 +1,18 @@
+{
+    "name": "alipay",
+    "description": "alipay api",
+    "author": "dengdonglin",
+    "version": "0.0.2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lodengo/alipay.git"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "xmldom": "0.1.13"
+    },
+    "devDependencies": {
+        "express": "3.0.3",
+        "ejs": "*"
+    }
+}
